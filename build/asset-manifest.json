@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.260ccea7.css",
+    "main.js": "/static/js/main.c5835086.js",
+    "static/js/787.9d7171b2.chunk.js": "/static/js/787.9d7171b2.chunk.js",
+    "static/media/hospital room pt 1.png": "/static/media/hospital room pt 1.da5717bde1d00612a560.png",
+    "static/media/starting room.png": "/static/media/starting room.0d6e12d08f6f242443fa.png",
+    "static/media/Manila Folder.png": "/static/media/Manila Folder.37fe9f360b3cc6ecd0dc.png",
+    "static/media/emailhomegrey.png": "/static/media/emailhomegrey.2dd137966bff60a11d38.png",
+    "static/media/Forum.png": "/static/media/Forum.bb5531532b1bbbe3e380.png",
+    "static/media/Psychiatrist.png": "/static/media/Psychiatrist.5aa9112a8d14fb9d1ab8.png",
+    "static/media/Pharma Email.png": "/static/media/Pharma Email.f4a5e0310adf596bcaab.png",
+    "static/media/Uncle John.png": "/static/media/Uncle John.31b98287db258f5c2ecf.png",
+    "index.html": "/index.html",
+    "main.260ccea7.css.map": "/static/css/main.260ccea7.css.map",
+    "main.c5835086.js.map": "/static/js/main.c5835086.js.map",
+    "787.9d7171b2.chunk.js.map": "/static/js/787.9d7171b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260ccea7.css",
+    "static/js/main.c5835086.js"
+  ]
+}

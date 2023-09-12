@@ -1,0 +1,31 @@
+.main{
+    background-color: black;
+    background-position: center center;
+    position: absolute;
+    top: -170px;
+    left: -370px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+   
+    width: 2000px;
+    height: 1080px;
+    z-index: 9;
+    
+}   
+
+.image {
+    background-image: url("/Users/tylerkubecka/Desktop/sparkarg/sparkarg/public/assets/hospital room pt 1.png");
+    background-size: 1280px 720px;
+    background-position: center center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+   
+    width: 1280px;
+    height: 720px;
+    z-index: 10;
+}

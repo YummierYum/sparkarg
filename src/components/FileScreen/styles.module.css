@@ -1,0 +1,15 @@
+.main {
+    background-image: url(" /Users/tylerkubecka/Desktop/sparkarg/sparkarg/public/assets/Manila Folder.png");
+    background-size: 1080px 768px;
+    background-position: center center;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 7;
+
+    width: 1080px;
+    height: 768px;
+    cursor: pointer;
+   
+}

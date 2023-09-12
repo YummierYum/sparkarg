@@ -1,0 +1,128 @@
+.main{
+ background-image: url("/Users/tylerkubecka/Desktop/sparkarg/sparkarg/public/assets/starting room.png");
+ background-size: 1280px 720px;
+ background-position: center center;
+ position: absolute;
+ top: 0px;
+ left: 80px;
+ display: flex;
+ align-items: center;
+ justify-content: center;    
+
+ width: 1280px;
+ height: 720px;
+
+}
+
+.emailButton{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    top: 25px;
+    left: -65px;
+    width: 170px;
+    height:120px;
+    border: 15px solid blue;
+    cursor: pointer;
+}
+
+.emailButton .emailText {
+    visibility: hidden;
+    position: relative;
+    z-index: 1;
+}
+
+.emailButton:hover .emailText{
+    visibility: visible;
+}
+
+.fileButton {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    top: 460px;
+    left: 360px;
+    width: 110px;
+    height: 80px;
+    border: 15px solid blue;
+    cursor: pointer;
+    
+}
+
+.fileButton .fileText {
+    visibility: hidden;
+    position: relative;
+    
+}
+
+.fileButton:hover .fileText{
+    visibility: visible;
+}
+
+.pictureBox {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    top: 450px;
+    left: 810px;
+    width: 100px;
+    height: 120px;
+    border: 15px solid green;
+    cursor: pointer;
+}
+
+.pictureBox .pictureText{
+    visibility: hidden;
+    position: relative;
+}
+
+.pictureBox:hover .pictureText{
+    visibility: visible;
+}
+
+.conspiracyBox{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    top: 0px;
+    left: 500px;
+    width: 500px;
+    height: 200px;
+    border: 15px solid green;
+    cursor: pointer;
+}
+
+.conspiracyBox .conspiracyText {
+    visibility: hidden;
+    position: relative;
+}
+
+.conspiracyBox:hover .conspiracyText {
+    visibility: visible;
+}
+
+.pillBox{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    top: 540px;
+    left: 720px;
+    width: 100px;
+    height: 120px;
+    border: 15px solid green;
+    cursor: pointer;
+}
+
+.pillBox .pillText {
+    visibility: hidden;
+    position: relative;
+}
+
+.pillBox:hover .pillText {
+    visibility: visible;
+}

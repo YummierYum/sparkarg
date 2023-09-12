@@ -1,0 +1,28 @@
+.main{
+    background-image: url("/Users/tylerkubecka/Desktop/sparkarg/sparkarg/public/assets/Psychiatrist.png");
+    background-size: 540px 384px;
+    background-position: center center;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 540px;
+    height: 384px;
+
+}
+
+
+
+.closeButton {
+    position: relative;
+    display: flex;
+ align-items: center;
+ justify-content: center; 
+    top: -115px;
+    left: 220px;
+    width: 15px;
+    height: 15px;
+    border: 15px solid blue;
+    cursor: pointer;
+}
